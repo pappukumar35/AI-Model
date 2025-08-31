@@ -175,7 +175,9 @@ This project is licensed under the **MIT License**.
 
 **Pappu Kumar**
 Java Backend Developer | Spring Boot | AI Integration
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 [LinkedIn]([https://www.linkedin.com/in/pappukumar35/]/) | [github.com](https://github.com/pappukumar35)/)
+📧 Email: [your-email@example.com](tpgcoder@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/pappukumar35)/) | [github.com](https://github.com/pappukumar35)/)
+🔗 [Youtub](www.youtube.com/@TPG_coder)/)
+
 
 <h3 align="center">🌟 If you like this project, don't forget to ⭐ the repo! 🌟</h3>

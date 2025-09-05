@@ -177,9 +177,9 @@ This project is licensed under the **MIT License**.
 **Pappu Kumar**  
 Java Backend Developer | Spring Boot | AI Integration  
 
-[![Email](https://img.shields.io/badge/Email-tpgcoder%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tpgcoder@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pappukumar35)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/pappukumar35)
+[![Email](https://img.shields.io/badge/Email-tpgcoder%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tpgcoder@gmail.com) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pappukumar35)  <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/pappukumar35)  <br>
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCjv_9nWy8fNZ8KwGzQH8SKw)
 
 <h3 align="center">🌟 If you like this project, don't forget to ⭐ the repo! 🌟</h3>

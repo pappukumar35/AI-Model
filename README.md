@@ -171,15 +171,15 @@ This project is licensed under the **MIT License**.
 
 ---
 
+
 ## 👨‍💻 **Author**
 
-**Pappu Kumar**
-Java Backend Developer | Spring Boot | AI Integration
-📧 Email: [your-email@example.com](tpgcoder@gmail.com)
+**Pappu Kumar**  
+Java Backend Developer | Spring Boot | AI Integration  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pappukumar35)/) |<br>
-[github.com](https://github.com/pappukumar35)/)<br>
-🔗 [Youtub](https://www.youtube.com/channel/UCjv_9nWy8fNZ8KwGzQH8SKw)/)
-
+[![Email](https://img.shields.io/badge/Email-tpgcoder%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tpgcoder@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pappukumar35)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/pappukumar35)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCjv_9nWy8fNZ8KwGzQH8SKw)
 
 <h3 align="center">🌟 If you like this project, don't forget to ⭐ the repo! 🌟</h3>
